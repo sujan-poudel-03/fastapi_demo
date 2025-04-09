@@ -1,2 +1,8 @@
 __pycache__/
 fastapiEnv/
+
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
